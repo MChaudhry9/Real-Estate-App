@@ -27,7 +27,7 @@ const MapComponent = () => {
       <div className="search-bar mb-4">
         <input
           type="text"
-          placeholder="Enter address, ZIP code, or BIN #"
+          placeholder="Enter address, ZIP code, or BIN # "
           value={searchInput}
           onChange={(e) => setSearchInput(e.target.value)}
           className="border rounded px-4 py-2 w-full"
