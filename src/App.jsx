@@ -12,7 +12,6 @@ function App() {
           <h1 className="text-center text-2xl font-bold">NYC Real Estate Building Complaints App</h1>
         </header>
         <main className="container mx-auto p-4">
-          {/* Add the MapComponent */}
           <MapComponent />
         </main>
       </>
