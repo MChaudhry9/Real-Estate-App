@@ -119,6 +119,8 @@ This tool is designed to provide actionable insights for real estate professiona
 
 ## System Architecture
 ![Alt Text](assets/Flowchart.png)
+![Flowchart](https://github.com/your-username/your-repository-name/raw/main/assets/Flowchart.png)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Technologies Used
