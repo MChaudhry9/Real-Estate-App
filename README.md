@@ -118,7 +118,7 @@ This tool is designed to provide actionable insights for real estate professiona
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## System Architecture
-![Flowchart]([https://github.com/your-username/your-repository-name/raw/main/assets/Flowchart.png](https://github.com/MChaudhry9/Real-Estate-App/blob/main/src/assets/Flowchart.png))
+![Flowchart](https://github.com/MChaudhry9/Real-Estate-App/blob/main/src/assets/Flowchart.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
