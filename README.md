@@ -88,9 +88,8 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-The NYC Building Violations App is a dynamic web platform that allows users to explore and interact with building violations in the New York City area. Powered by data 
-    from the <a href="https://data.cityofnewyork.us/Housing-Development/DOB-Complaints-Received/eabe-havv/about_data">NYC Open Data “DOB Complaints Received” dataset</a>, the 
-    app provides a real-time, map-based interface for discovering property issues, including violations and unresolved maintenance problems.
+The NYC Building Violations App is a dynamic web platform that allows users to explore and interact with building violations in the New York City area. Powered by data from the NYC Open Data “DOB Complaints Received” dataset, the 
+app provides a real-time, map-based interface for discovering property issues, including violations and unresolved maintenance problems.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -105,6 +104,9 @@ The NYC Building Violations App is a dynamic web platform that allows users to e
 * [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [![Google Maps API](https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)](https://developers.google.com/maps)
+
+
+
 
 
 
