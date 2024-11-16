@@ -82,7 +82,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#how-it-works">How it Works</a></li>
     <li><a href="#api-endpoints-and-query-parameters">API Endpoints and Query Parameters</a></li>
     <li><a href="#top-contributors">Top Contributors</a></li>
     <li><a href="#license">License</a></li>
@@ -173,7 +173,7 @@ Follow the steps below to set up and run the project locally.
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## How it Works
 
 
 1. **User Inputs Their Query**  
