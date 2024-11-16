@@ -18,13 +18,14 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+<!--
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
+-->
 
 
 <!-- PROJECT LOGO -->
@@ -34,10 +35,15 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">NYC Building Violations App</h3>
 
   <p align="center">
-    project_description
+      The NYC Building Violations App is a dynamic web platform that allows users to explore and interact with building violations in the New York City area. Powered by data 
+    from the <a href="https://data.cityofnewyork.us/Housing-Development/DOB-Complaints-Received/eabe-havv/about_data">NYC Open Data “DOB Complaints Received” dataset</a>, the 
+    app provides a real-time, map-based interface for discovering property issues, including violations and unresolved maintenance problems.
+
+
+    
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
