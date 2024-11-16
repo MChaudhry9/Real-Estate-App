@@ -118,7 +118,7 @@ This tool is designed to provide actionable insights for real estate professiona
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## System Architecture
-![Alt Text](assets/your_image.png)
+![Alt Text](assets/Flowchart.png)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Technologies Used
