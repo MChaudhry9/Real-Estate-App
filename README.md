@@ -38,9 +38,6 @@
 <h3 align="center">NYC Building Violations App</h3>
 
   <p align="center">
-      The NYC Building Violations App is a dynamic web platform that allows users to explore and interact with building violations in the New York City area. Powered by data 
-    from the <a href="https://data.cityofnewyork.us/Housing-Development/DOB-Complaints-Received/eabe-havv/about_data">NYC Open Data “DOB Complaints Received” dataset</a>, the 
-    app provides a real-time, map-based interface for discovering property issues, including violations and unresolved maintenance problems.
 
 
     
@@ -91,7 +88,9 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+The NYC Building Violations App is a dynamic web platform that allows users to explore and interact with building violations in the New York City area. Powered by data 
+    from the <a href="https://data.cityofnewyork.us/Housing-Development/DOB-Complaints-Received/eabe-havv/about_data">NYC Open Data “DOB Complaints Received” dataset</a>, the 
+    app provides a real-time, map-based interface for discovering property issues, including violations and unresolved maintenance problems.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -99,14 +98,14 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+* [![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+* [![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
+* [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [![Google Maps API](https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)](https://developers.google.com/maps)
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -115,16 +114,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Follow the steps below to set up and run the project locally.
 
 ### Installation
 
@@ -133,7 +123,7 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    git clone https://github.com/github_username/repo_name.git
    ```
-3. Install NPM packages
+3. Install NPM packages in your terminal
    ```sh
    npm install
    ```
