@@ -27,8 +27,8 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 -->
 
-
-<!-- PROJECT LOGO -->
+<!-- 
+ PROJECT LOGO
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
@@ -38,9 +38,11 @@
 <h3 align="center">NYC Building Violations App</h3>
 
   <p align="center">
+-->
+<h1 align="center">NYC Building Violations App</h3>
 
 
-    
+  <!--  
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
@@ -52,7 +54,10 @@
     <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
-
+-->
+<div align="center">
+<a href="https://github.com/MChaudhry9/Real-Estate-App">Open the App</a>
+</div>
 
 
 <!-- TABLE OF CONTENTS -->
@@ -62,18 +67,17 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#technologies-used">Technologies Used</a></li>
       </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#api">API Endpoints and Query Parameters</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -88,14 +92,22 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-The NYC Building Violations App is a dynamic web platform that allows users to explore and interact with building violations in the New York City area. Powered by data from the NYC Open Data “DOB Complaints Received” dataset, the 
-app provides a real-time, map-based interface for discovering property issues, including violations and unresolved maintenance problems.
+The NYC Building Violations App is an innovative web platform that empowers users to explore and analyze building violations across New York City. It integrates a RESTful API built using real-time data from the NYC Department of Buildings (DOB), sourced from the [NYC Open Data](https://opendata.cityofnewyork.us/) platform. The app features an interactive, map-based interface that helps uncover property issues such as code violations and unresolved maintenance problems.  
+
+This tool is designed to provide actionable insights for real estate professionals, property buyers, investors, homebuyers, and the general public by:  
+
+- Highlighting property issues that may affect market value  
+- Identifying unresolved maintenance concerns  
+- Exposing legal or code violations  
+- Offering leverage for negotiations  
+- Supporting informed investment decisions  
+- Revealing neighborhood trends and infrastructure challenges 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
-### Built With
+### Technologies Used
 
 * [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 * [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
@@ -156,15 +168,18 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
-<!-- ROADMAP -->
-## Roadmap
+## API Endpoints and Query Parameters
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- **GET `/api/complaints`**: Retrieve all violations.
+- **GET `/api/complaints?address={}`**: Retrieve a violation by address.
+- **GET `/api/complaints?zip_code={}`**: Retrieve a violation by zipcode.
+- **GET `/api/complaints?bin_number={}`**: Retrieve a violation by the unique identifier: Building Identification Number (BIN Number).
+- **GET `/api/complaints?address={}&zip_code={}`**: Retrieve a violation by both address and zipcode.
+- **GET `/api/complaints?address={}&bin_number={}`**: Retrieve a violation by address and BIN number.
+- **GET `/api/complaints?zip_code={}&bin_number={}`**: Retrieve a violation by both zip code and BIN number.
+- **GET `/api/complaints?address={}&zip_code={}&bin_number={}`**: Retrieve a violation by address, zip code, and BIN number.
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
