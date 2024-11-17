@@ -96,7 +96,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-The NYC Building Violations App is an innovative web platform that empowers users to explore and analyze building violations across New York City. It integrates a RESTful API built using real-time data from the NYC Department of Buildings (DOB), sourced from the [NYC Open Data](https://opendata.cityofnewyork.us/) platform. The app features an interactive, map-based interface that helps uncover property issues such as code violations and unresolved maintenance problems.  
+The NYC Building Violations App is an innovative web platform that empowers users to explore and analyze building violations across New York City. It integrates a RESTful API built using real-time data from the NYC Department of Buildings (DOB), sourced from the [NYC Open Data](https://opendata.cityofnewyork.us/) platform. The app features an interactive, map-based interface powered by the Google Maps API,that helps uncover property issues such as code violations and unresolved maintenance problems.  
 
 This tool is designed to provide actionable insights for real estate professionals, property buyers, investors, homebuyers, and the general public by:  
 
