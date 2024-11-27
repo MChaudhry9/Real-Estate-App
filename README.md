@@ -56,7 +56,7 @@
 </div>
 -->
 <div align="center">
-<a href="https://github.com/MChaudhry9/Real-Estate-App">Open the App</a>
+<a href="https://real-estate-complaints.vercel.app/">Open the App</a>
 </div>
 
 
